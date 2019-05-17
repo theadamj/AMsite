@@ -5,6 +5,11 @@
 	border:0;
 }
 
-.navbar-text{
-	font-family: Noe Display;
+.navbar-nav{
+	font-family: Lato 700;
+	background-color: transparent !important;
+}
+.navbar-item{
+	font-family: Lato 700;
+	background-color: transparent !important;
 }
