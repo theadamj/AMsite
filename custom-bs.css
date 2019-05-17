@@ -5,11 +5,19 @@
 	border:0;
 }
 
-.navbar-nav{
+.navbar-item , .navbar-nav , .navbar-light{
 	font-family: Lato 700;
 	background-color: transparent !important;
+	margin: 0 auto !important;
+	color:#242424;
+	margin:0 auto;
 }
-.navbar-item{
-	font-family: Lato 700;
-	background-color: transparent !important;
+
+.navbar{
+	background-color:transparent !important;
+	align-items: center;
+	
 }
+
+
+
