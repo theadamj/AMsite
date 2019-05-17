@@ -1,0 +1,31 @@
+@font-face{
+	font-family:"Noe Display";
+	src ("fonts/NoeDisplay-Regular.otf");
+}
+
+body {
+	background-color: #f8eddf;
+    max-width:1920px;
+	background:#f9f9e0;
+
+	/*font-family"Noe Display""Avenir Next LT Pro"*/
+}
+
+h1,h2,h3,h4,h5,h6
+{
+	font-family: Noe Display;
+	color:#242424;
+	letter-spacing: 1px;
+}
+
+.col1{
+	padding-top: 15px;
+	margin:0 auto;
+}
+.col2{
+	margin:0 auto;
+}
+
+.col3{
+	margin:0 auto;
+}

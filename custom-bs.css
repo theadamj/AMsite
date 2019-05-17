@@ -1,0 +1,10 @@
+.navbar-toggler-icon{
+	background-image:url(icons/drop.svg)!important;
+}
+.navbar-toggler{
+	border:0;
+}
+
+.navbar-text{
+	font-family: Noe Display;
+}
