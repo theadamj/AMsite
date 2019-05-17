@@ -8,3 +8,11 @@
 .navbar-text{
 	font-family: Noe Display;
 }
+
+.navbar{
+	background-color: transparent !important;
+}
+
+.navbar-nav{
+	background-color: transparent !important;
+}
