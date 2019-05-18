@@ -4,7 +4,7 @@
 }
 
 body {
-	background-color: #f1f1e1;;
+	background-color: #f1f1e1;
     max-width:1920px;
 	background:#f9f9e0;
 
@@ -18,15 +18,7 @@ h1,h2,h3,h4,h5,h6
 	letter-spacing: 1px;
 }
 
-.col1{
-	padding-top: 15px;
-	margin:0 auto;
-}
-.col2{
-	margin:0 auto;
-}
 
-.col3{
-	margin:0 auto;
-}
+
+
 

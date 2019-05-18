@@ -10,7 +10,8 @@
 }
 
 .navbar{
-	background-color: transparent !important;
+	 background:#f1f1e1 !important;
+	z-index:1000;
 }
 
 
@@ -30,9 +31,18 @@
 .navbar-brand{
 	position: fixed;
     top: 0;
-    left: 0;
+   left:0;
     margin:15px;
-    
+
+}
+.navbar-wrapper{
+    margin: 0 -15px;
+    padding: 25px 15px;
+
+}
+
+.container{
+	padding-top:90px;
 }
 
 
