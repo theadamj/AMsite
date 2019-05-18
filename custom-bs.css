@@ -10,13 +10,15 @@
 }
 
 .navbar{
-	 background:#f1f1e1 !important;
+
+	background:#f1f1e1 !important;
 	z-index:1000;
 }
 
 
 .navbar-nav{
 	background:#f1f1e1 !important;
+
 }
 
 .navbar , .fixed{
@@ -24,6 +26,7 @@
     top: 0;
     right: 0;
     margin-top:15px;
+   
    
 }
 
