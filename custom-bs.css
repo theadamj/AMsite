@@ -6,11 +6,11 @@
 }
 
 .navbar-text{
-	font-family: Noe Display;
+	font-family: Lato;
 }
 
 .navbar{
-	 background:#f1f1e1 !important;
+	background:#f1f1e1 !important;
 	z-index:1000;
 }
 
@@ -30,9 +30,10 @@
 
 .navbar-brand{
 	position: fixed;
-    top: 0;
+   top: 0;
    left:0;
-    margin:15px;
+   margin:25px;
+  
 
 }
 .navbar-wrapper{
@@ -41,9 +42,12 @@
 
 }
 
-.container{
-	padding-top:90px;
+.col-sm-1{
+
+	margin-left:40px;
 }
+
+
 
 
 
